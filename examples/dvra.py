@@ -19,7 +19,7 @@ MAX_PINS = 10
 MAX_HISTORY = 5
 
 SYSTEM_PROMPT = """\
-You are a principal application security tester assessing vulnerabilities in web APIs.
+You are a senior application security tester assessing vulnerabilities in web APIs.
 """
 
 # Models
